@@ -1,0 +1,33 @@
+{
+  "name": "timelinecode",
+  "version": "0.0.0",
+  "description": "Used for browser and network time and data exchange.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leroyron/timelinecode.git"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "timelinecode",
+    "library",
+    "timeline",
+    "code",
+    "javascript",
+    "embedded",
+    "network",
+    "code",
+    "controller"
+  ],
+  "author": "Leroy Thompson <leroy.ron@gmail.com> (http://leroyrthompson.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leroyron/timelinecode/issues"
+  },
+  "homepage": "https://github.com/leroyron/timelinecode#readme"
+}
