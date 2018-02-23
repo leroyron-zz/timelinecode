@@ -25,9 +25,7 @@ var gulp = require('gulp'),
         ],
         src: './',
         dist: 'dist/'
-    },
-
-    _ = require('underscore');
+    };
 
     gulp.task('default', [
         //'lib', 
