@@ -1,4 +1,6 @@
 import { timeline } from "./timeline";
+import "./timeline.code/timeline.code"; // Dependencies
+
 /** User: Use .code() - to set up the GUI and access for the timeline */
 export class code {
     /**
